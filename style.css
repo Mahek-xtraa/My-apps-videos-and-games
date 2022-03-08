@@ -1,0 +1,35 @@
+
+ 
+.menu {
+list-style: none;
+color:#4d07a3;
+font-family: fantasy;
+margin-top: 10px;
+margin-left: 390px;
+z-index: 10;
+cursor: pointer;
+}
+.links {
+    float: left;
+    padding: 10px;
+}
+
+.links:hover {
+    color:#ffffff;
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+}
+/* #welcomepage {
+    background: linear-gradient(#c585ed 0%, #10a2e0 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+} */
+/* I could not do: 
+1. All sections to have a diff colour
+
+2. increase the size of the game lab pics
+
+3. try giving a border to the game lab pics
+
+4. Style the menu */
